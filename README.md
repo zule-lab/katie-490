@@ -1,7 +1,5 @@
 # Variation in the proportions of native trees and species across different land-use types within the urban forest
 
-Code and data for Katie Philp's BIOL490 project 
-
 Katie Philps, to complete the requirements for BIOL490 at Concordia University
 
 ## Abstract
